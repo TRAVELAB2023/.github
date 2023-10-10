@@ -3,15 +3,12 @@
 
 ![유스케이스](https://github.com/enjoyTripPr/.github/assets/50358956/73730620-a5dc-4d16-b2c6-19e22c561d9f)
 
-# 2. 클래스 다이어그램
 
-
-![UML](https://github.com/enjoyTripPr/.github/assets/50358956/a70889bc-b409-46f7-84a4-ed6d76a28c79)
-# 3. ERD
+# 2. ERD
 
 ![ERD](https://github.com/enjoyTripPr/.github/assets/50358956/20cbd3f5-481f-4cfa-a009-4cc3353057f4)
 
-# 4. 화면 설계
+# 3. 화면 설계
 
 ## 1. 로그인
 ![로그인](https://github.com/enjoyTripPr/.github/assets/50358956/50aeb00b-27e3-4c8a-8d31-569f818863ca)
