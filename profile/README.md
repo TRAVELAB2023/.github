@@ -1,4 +1,7 @@
 
+# 시연 영상
+[![Video Label](http://img.youtube.com/vi/Ln9ZYPDDZYg/0.jpg)](https://youtu.be/Ln9ZYPDDZYg)
+
 # 1. 유스케이스 다이어그램
 
 ![유스케이스](https://github.com/enjoyTripPr/.github/assets/50358956/73730620-a5dc-4d16-b2c6-19e22c561d9f)
@@ -42,3 +45,4 @@
 ## 9. 내 정보
 
 ![내 정보](https://github.com/enjoyTripPr/.github/assets/50358956/f99b938e-aa28-427f-beeb-79fb3b7979b7)
+
